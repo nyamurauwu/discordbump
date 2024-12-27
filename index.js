@@ -149,7 +149,7 @@ client.on('messageCreate', async (message) => {
             `- Usuário logado: ${client.user.tag}\n` +
             `- Total de bumps: ${bumpCount}\n` +
             `- Próximo bump em: ${minutes}m ${seconds}s\n\n` +
-            `Desenvolvido pela administração do Clube Trans & Femboy & etc. com carinho 💖`
+            `insira sua mensagem aqui`
         );
     }
 });
