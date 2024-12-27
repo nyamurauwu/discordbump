@@ -18,7 +18,7 @@ Abra **.env**:
 Cole o token da sua conta alternativa depois de **TOKEN=**
 
 Cole o ID do canal onde você quer que o bot envie **/bump** depois de **BUMP_CHANNEL=**
-Não esqueça do guild_id e o id do seu servidor
+Não esqueça do **guild_id=** e o id do seu servidor
 
 # Como obter o token do usuário
 1. Abra o Discord
