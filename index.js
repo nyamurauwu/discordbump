@@ -263,7 +263,7 @@ const commandHandler = {
                         `- Usuário: ${client.user.tag}\n` +
                         `- Bumps: ${state.bumpCount}\n` +
                         `- Próximo: ${minutes}m ${seconds}s\n\n` +
-                        `Desenvolvido pela administração do Clube Trans & Femboy & etc. com carinho 💖`,
+                        `//////////////////////////////////////`,
                 failIfNotExists: false
             });
         } catch (error) {
