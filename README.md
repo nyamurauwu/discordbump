@@ -1,5 +1,4 @@
 # Discord Auto Bump Selfbot
-[<img src="https://img.shields.io/github/license/appu1232/Discord-Selfbot.svg">](https://github.com/MonkoTubeYT/Disboard-Auto-Bump-Selfbot/blob/main/LICENSE)
 
 Um selfbot que automaticamente faz bump no Disboard.
 
